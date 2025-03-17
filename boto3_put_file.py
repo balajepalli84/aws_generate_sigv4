@@ -36,8 +36,8 @@ bucket_name = 'g62a5khpnuwmzkoxaziprd4lt4'
 object_name = 'teststse.yaml'
 #host_url = 'https://ociateam.compat.objectstorage.us-ashburn-1.oraclecloud.com'  # Your custom S3 host URL
 host_url = f'https://g62a5khpnuwmzkoxaziprd4lt4.apigateway.us-ashburn-1.oci.customer-oci.com'
-access_key = "34af0a6977a499883e42e81b3e609b61dff93ea3"  # Your AWS Access Key
-secret_key = "cy/o7/K+p79kwcEfSZS+AB+EzDmp+kIUVPonGLF4UH4="  # Your AWS Secret Key
+access_key = "34af0a69s609b61dff93ea3"  # Your AWS Access Key
+secret_key = "cy/sfIUVPonGLF4UH4="  # Your AWS Secret Key
 
 
 
